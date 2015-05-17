@@ -1,3 +1,8 @@
+## This repository contains my submission for Peer Assignment 1
+
+This original README appears below
+
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
